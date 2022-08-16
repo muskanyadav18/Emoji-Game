@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  margin: 0;
+}
+
+.txt-input {
+  box-sizing: border-box;
+  height: 3rem;
+  width: 300px;
+  padding: 1rem;
+  margin: auto;
+}
+
+nav {
+  background-color: #10b981;
+  padding: 0.2rem;
+  margin-bottom: 6rem;
+}
+
+.center-conatiner {
+  margin-top: 1rem;
+  display: block;
+}
+
+span {
+  padding: 0.5rem;
+}
